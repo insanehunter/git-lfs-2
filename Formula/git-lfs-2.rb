@@ -1,5 +1,5 @@
-class GitLfsAT213 < Formula
-    desc "Git extension for versioning large files"
+class GitLfs2 < Formula
+    desc "Git extension for versioning large files, version 2.xx"
     homepage "https://github.com/git-lfs/git-lfs"
     url "https://github.com/git-lfs/git-lfs/releases/download/v2.13.3/git-lfs-v2.13.3.tar.gz"
     sha256 "f8bd7a06e61e47417eb54c3a0db809ea864a9322629b5544b78661edab17b950"
