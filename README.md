@@ -1,4 +1,7 @@
-# Insanehunter Git-lfs-2
+# git-lfs@2.xx
+
+Some BitBucket instances don't support [Git LFS 3.0+ clients](https://jira.atlassian.com/browse/BSERV-12989),
+but HomeBrew doesn't contain formula for older `git-lfs` versions.
 
 ## How do I install these formulae?
 
